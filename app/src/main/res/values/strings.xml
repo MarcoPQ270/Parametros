@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parametros</string>
+
+    <string name="tv1">Primer Activity</string>
+    <string name="edt1">Ingresa un mensaje</string>
+    <string name="btnenviar">Enviar</string>
+
+    <string name="tv2">Segundo Intent</string>
+    <string name="tv3">Hola, </string>
+    <string name="btnregresar">Regresar</string>
+</resources>
